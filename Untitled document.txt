@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Crystal Glass Cleaning Windows</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Crystal Glass Cleaning Windows</h1>
+    <p>Your clear choice for sparkling clean windows!</p>
+  </header>
+
+
+  <main>
+    <section>
+      <h2>Why Choose Us?</h2>
+      <ul>
+        <li>Professional and reliable service</li>
+        <li>Eco-friendly cleaning products</li>
+        <li>Affordable prices with great results</li>
+        <li>Fast and thorough cleaning every time</li>
+        <li>100% satisfaction guaranteed!</li>
+      </ul>
+    </section>
+
+
+    <section>
+      <h2>Contact Us Today!</h2>
+      <p>Call us at <strong>(123) 456-7890</strong> or email <a href="mailto:info@crystalglasscleaning.com">info@crystalglasscleaning.com</a></p>
+      <button onclick="contactMessage()">Get Your Free Quote</button>
+    </section>
