@@ -1,0 +1,3 @@
+﻿function contactMessage() {
+  alert("Thanks for your interest! We'll contact you soon with a free quote.");
+}
